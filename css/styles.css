@@ -1,0 +1,181 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  margin-bottom: 0;
+}
+
+h1{
+  color: darkslategrey;
+  font-size: 5.625rem;
+  width: auto;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: darkslategrey;
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+p{
+  color: darkslategrey;
+  font-family: sans-serif;
+}
+
+h3{
+  color: #11999E;
+}
+
+hr{
+  border-top-style: dotted;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+.engg{
+  font-weight: normal;
+  border-bottom: 1px solid darkslategrey;
+   padding: 0 0 2px;
+}
+
+.t-cl{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.b-cl{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.mount{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.dhoni:hover{
+  background-color: lightblue;
+  border-radius: 100%;
+}
+
+.top{
+  /* height: 200px;
+  width: 200px; */
+  position: relative;
+  background-color: skyblue;
+  margin-bottom: 10px;
+  /* border-color: black;
+  border: solid 10px;*/
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+
+.profile{
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+
+.skills{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  text-align: left;
+  display: inline-block;
+}
+
+.sk{
+  width: 15rem;
+  height: 15rem;
+  float: left;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  /*display: inline-block;*/
+}
+
+.ath{
+  width: 15rem;
+  height: 15rem;
+  float: right;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.middle{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contact-me{
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.bottom{
+  margin-top: 50px;
+  margin-bottom: 0;
+  background-color: skyblue;
+  padding-top: 30px;
+}
+
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  padding: auto 10px auto 10px;
+  font-family: sans-serif;
+
+}
+
+.footer-link:hover{
+  color: snow;
+  text-decoration: none;
+  padding: auto 10px auto 10px;
+  font-family: sans-serif;
+
+}
+
+.btn{
+  color: snow;
+  border-color: #11999E;
+  border-style: solid;
+  background-color: #11999E;
+  border-radius: 5%;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.btn:hover{
+  color: snow;
+  border-color: turquoise;
+  border-style: solid;
+  background-color: turquoise;
+  border-radius: 5%;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  font-family: sans-serif;
+
+}
+
+.des{
+  line-height: 200%;
+  font-weight: normal;
+}
+
+.end{
+  color: snow;
+  padding-bottom: 10px;
+}
